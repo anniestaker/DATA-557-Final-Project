@@ -12,8 +12,6 @@ knitr::opts_chunk$set(message=FALSE)
 
 ## Introduction
 
-Introduction to the problem and description of data available
-
 In this project we sought to understand whether bias existed in US faculty 
 salary data on the basis of sex. To do this, we sought to answer four questions: 
 
@@ -39,12 +37,9 @@ Questions 1, 2, and 4 and are included in the Results section below.
 
 ## Results
 
-Present results for each scientific question
-- Interactive Data Stories Go Here
-
 The results presented in this section are interactive data stories for Questions 
 1, 2, and 4. The results and summary for Question 3 are part of the interactive 
-web application.
+web application and corresponding writeup.
 
 ### Question 1
 
